@@ -26,10 +26,10 @@ export const User = () => {
                 <Link to='/account'>
                   <div className='image'>
                     <div className='img'>
-                      <img src='https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=600' alt='' />
+                      <img src={'./IMG_20210903_081529 (1).jpg'} alt='' />
                     </div>
                     <div className='text'>
-                      <h4>Eden Smith</h4>
+                      <h4>John Doe</h4>
                       <label>Los Angeles, CA</label>
                     </div>
                   </div>

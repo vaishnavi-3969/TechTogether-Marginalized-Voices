@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../assets/images/input.png";
+import image from "../../assets/images/input.jpg";
 import "./account.css";
 
 export const Account = () => {
