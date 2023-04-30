@@ -1,7 +1,8 @@
 <div align='center'>
 <h1>Marginalized Voices</h1>
+<a href='https://marginalizedvoices.club/'>https://marginalizedvoices.club</a>
+<br/>
 <img src = "https://user-images.githubusercontent.com/80088403/235350150-6720077d-8395-4f25-9a90-9bc12df18f94.png" width='300px' height='300px'/>
-
 </div>
 <div align='center'>
 <img width="700" alt="Screenshot 2023-04-30 160023" src="https://user-images.githubusercontent.com/80088403/235350164-3857707f-082b-4c03-b386-a4fc181bcfbc.png">
